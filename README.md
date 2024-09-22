@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miroslava70
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming and arts
 - 🌱 I’m currently learning Python
 - 💞️ I’m not looking to collaborate on nobody
 - 📫 How to reach me ...
