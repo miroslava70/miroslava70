@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming and arts
 - 🌱 I’m currently learning Python
 - 💞️ I’m not looking to collaborate on nobody
-- 📫 How to reach me ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm big fan of plants because of pvz
 
